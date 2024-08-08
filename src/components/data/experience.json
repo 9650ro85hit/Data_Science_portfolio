@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Data Science Intern",
+    "organisation": "Nullclass",
+    "startDate": "Jan, 2024",
+    "endDate": "July, 2024",
+    "location": "Remote",
+    "experiences": [
+      "Work on Custom Object Detection",
+      "Worked with the Full Stack Development team"
+    ],
+    "imageSrc": "company/nullclassImg.jpg"
+  }
+]

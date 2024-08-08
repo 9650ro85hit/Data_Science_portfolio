@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/database.png"
+  },
+  {
+    "title": "DIP",
+    "imageSrc": "skills/ai-application.png"
+  },
+  {
+    "title":"Machine Learning",
+    "imageSrc":"skills/machine-learning.png"
+  },
+  {
+    "title":"Deep Learning",
+    "imageSrc":"skills/deep-learning.png"
+  },
+  {
+    "title":"NLP",
+    "imageSrc":"skills/nlp.png"
+  },
+  {
+    "title":"Computer Vision",
+    "imageSrc":"skills/design.png"
+  }
+  
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "key": 1,
+    "title": "Age  Detector",
+    "imageSrc": "/assets/Projects_img/age_detection.jpeg",
+    "description": "This is a project made with Using CNN.",
+    "demo": "/assets/Project_vedios/age_detction.mp4",
+     
+    "source": "https://github.com/9650ro85hit/basic_cnn"
+  },
+  {
+    "key": 2,
+    "title": "Potato Leaf Classifire",
+    "imageSrc": "/assets/Projects_img/image_classifire.jpeg",
+    "description": "This is a project made with complete Using CNN.",
+    "demo": "/assets/Project_vedios/leaf_classifire.mp4",
+    "source": "https://github.com/9650ro85hit/rohitsen_potato_leaf_classifire"
+  },
+  {
+    "key": 3,
+    "title": "Custom Object Detection",
+    "imageSrc": "/assets/Projects_img/traffic_vision.jpeg",
+    "description": "This is a project made Using Computer Vision .",
+    "demo": "/assets/Project_vedios/Third_project_video.mp4",
+    "source": "https://github.com/9650ro85hit/custom_object_detection_"
+  }
+ 
+]
