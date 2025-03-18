@@ -1,9 +1,5 @@
 
-# [PORTFOLIO](https://data-science-portfolio-three.vercel.app/)
-
-
-
-💼 Data Science Portfolio
+# [💼 Data Science Portfolio](https://data-science-portfolio-three.vercel.app/)
 
 Welcome to my Data Science Portfolio! 🚀 This repository showcases my journey through various machine learning, computer vision, and data structure projects — highlighting both my technical skills and passion for solving real-world problems.
 
