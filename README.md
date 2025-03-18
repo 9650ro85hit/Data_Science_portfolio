@@ -62,7 +62,7 @@ Tools: Git
 
 LinkedIn: www.linkedin.com/in/rohitsen9685
 
-GitHub: [Your GitHub Profile](https://github.com/9650ro85hit/)
+GitHub: [GitHub Profile](https://github.com/9650ro85hit/)
 
 Email: rohitsenhanu9685@gmail.com
 
